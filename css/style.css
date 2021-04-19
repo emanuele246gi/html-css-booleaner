@@ -61,5 +61,28 @@ body{
 }
 
 .interessi{
+    color: gray;
+    font-size: 25px;
+}
 
+.img-due{
+    background-image: url('../img/monitor.jpg');
+    height: 300px;
+    width: 450px;
+    background-size: contain;
+    color: white;
+    font-size: 30px;
+    padding-left: 10px;
+    padding-top: 20;
+}
+
+.img-due{
+    background-image: url('../img/graph.jpg');
+    height: 300px;
+    width: 450px;
+    background-size: contain;
+    color: white;
+    font-size: 30px;
+    padding-left: 10px;
+    padding-top: 20;
 }
