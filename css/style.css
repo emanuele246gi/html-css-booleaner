@@ -48,3 +48,18 @@ body{
 .lista{
     font-size: 25px;
 }
+
+.tabella-uno{
+    background-color: rgb(3, 182, 182);
+    border-color: rgb(3, 182, 182);
+    font-size: 25px;
+    background-size: 200px 300px;
+}
+
+.text-due{
+    font-size: 25px;
+}
+
+.interessi{
+
+}
