@@ -1,3 +1,7 @@
+body{
+    background-color: rgb(224, 224, 224);
+}
+
 .pattern{
     background-color: lightseagreen;
     background-image: url('../img/pattern.png');
@@ -14,5 +18,25 @@
 }
 
 .titolo{
-    size: 30px;
+    font-size: 30px;
+}
+
+.scritto{
+    font-size: 25px;
+    color: lightslategrey;
+    
+}
+
+.colore{
+    color: lightseagreen;
+}
+
+.img{
+    height: 10%;
+    width: 10%;
+    display: inline;
+}
+
+.descrizione{
+    font-size: 15px
 }
