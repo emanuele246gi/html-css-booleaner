@@ -1,0 +1,18 @@
+.pattern{
+    background-color: lightseagreen;
+    background-image: url('../img/pattern.png');
+    height: 120px;
+    width: 100%;
+    background-size: 30%;
+}
+
+.logo{
+    padding-top: 3%;
+    padding-left: 1%;
+    height: 5%;
+    width: 15%;
+}
+
+.titolo{
+    size: 30px;
+}
